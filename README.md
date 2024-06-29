@@ -4,7 +4,7 @@
 
 This repo is part of a tutorial on how to use OpenAI Assistants API v2 in Voiceflow. 
 
-Watch the full tutorial here:
+Watch the full tutorial here: https://youtu.be/MUX9Dp1PSfw?si=bRco1hz_B5mIdXpT
 
 ### Support Me
 
